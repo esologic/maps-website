@@ -58,4 +58,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://devonbray.com/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml
