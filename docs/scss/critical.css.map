@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "critical.css",
-	"sourceRoot": "/home/devon/Documents/upwork_and_contracting/maps_mashtun/maps",
+	"sourceRoot": "/home/devon/Documents/upwork_and_contracting/maps_mashtun/maps-website",
 	"sources": [
 		"themes/bridget-maps/assets/scss/critical.scss",
 		"themes/bridget-maps/assets/scss/_core/_reset.scss",
