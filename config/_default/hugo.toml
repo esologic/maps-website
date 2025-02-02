@@ -1,0 +1,24 @@
+# Local
+
+publishDir = "docs"
+
+# timeout
+timeout = "15s"
+
+# your website url
+baseURL = "/"
+
+# website title
+title = 'MAPS'
+
+# don't touch this
+disableKinds = ["section", "taxonomy", "term", "home"]
+
+# robots.txt
+enableRobotsTXT = true
+
+# Local
+[module]
+replacements = "github.com/Sped0n/bridget/v2 -> ../themes/bridget-maps"
+[[module.imports]]
+path = "github.com/Sped0n/bridget/v2"

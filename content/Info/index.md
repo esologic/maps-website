@@ -12,12 +12,19 @@ _build:
   publishResources: false
 ---
 
-Bridget is a _minimal_ Hugo theme designed for photographers/visual artists, powered by <u>[Solid.js](https://www.solidjs.com)</u>.
+A basement bar located in the heart of Portland, Maine, specializing in loud music, big cakes and 
+grilled cheeses.
 
-The inspiration for this theme came from a video by <u>[Hyperlexed](https://www.youtube.com/@Hyperplexed)</u>, which can be found <u>[here](https://www.youtube.com/watch?v=Jt3A2lNN2aE)</u>. Initially, it was developed using no third-party dependencies. However, after website designer <u>[Tyler McRobert](https://tylermcrobert.com)</u> made the source code publicly available, I realized that I have invented many unnecessary wheels, and this project was modified to porting the original design to Hugo while focusing on _performance_.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse 
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
+culpa qui officia deserunt mollit anim id est laborum.
 
-Once again, great shout out to <u>[Tyler McRobert](https://tylermcrobert.com)</u> for his inspiration to this project.
+M-S: 4PM-1AM, Sunday: 6PM-10PM
 
-[GitHub Repo ↗](https://github.com/Sped0n/bridget)
+[64 Market St, Portland, ME  ↗](https://g.co/kgs/G1qZYfJ)
 
-Original site design by <u>[Tyler McRobert](https://tylermcrobert.com)</u>.
+[Instagram ↗](https://www.instagram.com/maps_bar_portland/)
+
+[Gift Cards ↗](https://squareup.com/gift/H8GEVEF5JHGH4/order)
