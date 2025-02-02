@@ -6,7 +6,7 @@ publishDir = "docs"
 timeout = "15s"
 
 # your website url
-baseURL = "/"
+baseURL = "/maps-website/"
 
 # website title
 title = 'MAPS'
