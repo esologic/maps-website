@@ -22,3 +22,6 @@ enableRobotsTXT = true
 replacements = "github.com/Sped0n/bridget/v2 -> ../themes/bridget-maps"
 [[module.imports]]
 path = "github.com/Sped0n/bridget/v2"
+
+[params]
+nav_image = "maps_logo.png"

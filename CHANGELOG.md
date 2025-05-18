@@ -7,3 +7,4 @@
 * Maps theme the whole layout. Dark background, red hue.
 * Mashtun needs to be less powerful.
 * Figure out how to redirect from WIX
+* Top right text should be the MAPS logo.
