@@ -27,4 +27,6 @@ M-S: 4PM-1AM, Sunday: 6PM-10PM
 
 [Instagram ↗](https://www.instagram.com/maps_bar_portland/)
 
+[Contact ↗](mailto:dev@esologic.com?subject=Maps%20Contact%20Demo)
+
 [Gift Cards ↗](https://squareup.com/gift/H8GEVEF5JHGH4/order)
