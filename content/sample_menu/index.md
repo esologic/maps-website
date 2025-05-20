@@ -11,6 +11,8 @@ unifiedAlt: '© MAPS Portland, ME'
 pageConfig:
     clickToZoom: true
     mobilePreAnimateCount: 0
+    threshold: 100
+    trailLength: 100
 _build:
   publishResources: true
 ---
