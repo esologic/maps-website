@@ -10,7 +10,7 @@ menu:
 unifiedAlt: '© MAPS Portland, ME'
 pageConfig:
     clickToZoom: false
-    mobilePreAnimateCount: 20
+    mobilePreAnimateCount: 7
     threshold: 30
     trailLength: 40
 _build:
